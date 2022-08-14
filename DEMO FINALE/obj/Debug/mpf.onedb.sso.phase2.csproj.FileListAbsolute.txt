@@ -1,0 +1,16 @@
+C:\Users\johnpaolo.villanueva\OneDrive - MIMS Pte. Ltd\Desktop\MimsForBiz\MimsForBiz\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\johnpaolo.villanueva\OneDrive - MIMS Pte. Ltd\Desktop\MimsForBiz\MimsForBiz\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\johnpaolo.villanueva\OneDrive - MIMS Pte. Ltd\Desktop\MimsForBiz\MimsForBiz\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\johnpaolo.villanueva\OneDrive - MIMS Pte. Ltd\Desktop\MimsForBiz\MimsForBiz\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\johnpaolo.villanueva\OneDrive - MIMS Pte. Ltd\Desktop\MimsForBiz\MimsForBiz\bin\Debug\MimsForBiz.dll
+C:\Users\johnpaolo.villanueva\OneDrive - MIMS Pte. Ltd\Desktop\MimsForBiz\MimsForBiz\bin\Debug\MimsForBiz.pdb
+C:\Users\johnpaolo.villanueva\OneDrive - MIMS Pte. Ltd\Desktop\MimsForBiz\MimsForBiz\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\johnpaolo.villanueva\OneDrive - MIMS Pte. Ltd\Desktop\MimsForBiz\MimsForBiz\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\johnpaolo.villanueva\OneDrive - MIMS Pte. Ltd\Desktop\MimsForBiz\MimsForBiz\bin\Debug\WebDriver.dll
+C:\Users\johnpaolo.villanueva\OneDrive - MIMS Pte. Ltd\Desktop\MimsForBiz\MimsForBiz\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\johnpaolo.villanueva\OneDrive - MIMS Pte. Ltd\Desktop\MimsForBiz\MimsForBiz\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\johnpaolo.villanueva\OneDrive - MIMS Pte. Ltd\Desktop\MimsForBiz\MimsForBiz\obj\Debug\mpf.onedb.sso.phase2.csproj.AssemblyReference.cache
+C:\Users\johnpaolo.villanueva\OneDrive - MIMS Pte. Ltd\Desktop\MimsForBiz\MimsForBiz\obj\Debug\mpf.onedb.sso.phase2.csproj.CoreCompileInputs.cache
+C:\Users\johnpaolo.villanueva\OneDrive - MIMS Pte. Ltd\Desktop\MimsForBiz\MimsForBiz\obj\Debug\mpf.onedb.sso.phase2.csproj.CopyComplete
+C:\Users\johnpaolo.villanueva\OneDrive - MIMS Pte. Ltd\Desktop\MimsForBiz\MimsForBiz\obj\Debug\MimsForBiz.dll
+C:\Users\johnpaolo.villanueva\OneDrive - MIMS Pte. Ltd\Desktop\MimsForBiz\MimsForBiz\obj\Debug\MimsForBiz.pdb
